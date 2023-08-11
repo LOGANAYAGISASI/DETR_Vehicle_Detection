@@ -1,12 +1,9 @@
 # Detr_Vehicle__Detection
 Transformer based detection 
 
-Transformer based object detection
-
-Dataset :  https://drive.google.com/file/d/1uQ2tJvnsQQdTf-44S5vT4dJRQOpfEjL0/view?usp=drive_link
-
+##Dataset
+Dataset : https://drive.google.com/file/d/1uQ2tJvnsQQdTf-44S5vT4dJRQOpfEjL0/view?usp=drive_link
 dataset was exportred via https://app.roboflow.com/ I download dataset in COCO format.
-
 The dataset includes 4829 images. I have used 4200 images for Training and for testing i have used 204 images.
 
 Open the finetune_detr.ipynb in colab.
