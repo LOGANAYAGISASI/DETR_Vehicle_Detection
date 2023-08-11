@@ -9,7 +9,9 @@ The dataset includes 4829 images. I have used 4200 images for Training and for t
 
 ### Fine tuning
 
-Open the Train_detr.ipynb in colab.use the below url for colab. http://colab.research.google.com
+Open the Train_detr.ipynb in colab. use the below url for colab
+
+http://colab.research.google.com
 
 Download the trained model weights in https://drive.google.com/file/d/1J4c6iCXG4sLz1751lSQe0CoKIqUd7Eyn/view?usp=drive_link
 
