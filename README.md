@@ -18,11 +18,9 @@ Download the trained model weights in https://drive.google.com/file/d/1J4c6iCXG4
 #### Inference
 
 open the Test_detr.ipynb in colab.
-
 Load the weights using the above trained model weights, to detect the objects in the test data.
 
 Run inference on the test set using the model I have have trained.
-
 Vehicles are anotated in COCO format.
 
 Save the output images test_output-20230809T160424Z-001.zip.
