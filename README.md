@@ -1,5 +1,4 @@
-# Detr_Vehicle__Detection
-Transformer based detection 
+Vehicle Detection using Transformer based deep models (DETR)
 
 ## Dataset
 
