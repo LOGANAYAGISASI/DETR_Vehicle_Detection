@@ -4,7 +4,7 @@ Transformer based detection
 ## Dataset
 
 Dataset : https://drive.google.com/file/d/1uQ2tJvnsQQdTf-44S5vT4dJRQOpfEjL0/view?usp=drive_link
-The dataset includes 4829 images (4200 for Training and 204 for Testing). The dataset has seven different categories AutoRikshaw', 'Bike', 'Bus', 'Car', 'Maxi Cab', 'Mini Truck', 'Truck.
+The dataset includes 4829 images (4200 for Training, 425 for validation and 204 for Testing). The dataset has seven different categories AutoRikshaw', 'Bike', 'Bus', 'Car', 'Maxi Cab', 'Mini Truck', 'Truck.
 
 ### Fine tuning
 
