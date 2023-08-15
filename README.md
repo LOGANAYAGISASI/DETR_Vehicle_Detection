@@ -9,7 +9,7 @@ The dataset includes 4829 images (4200 for Training, 425 for validation and 204 
 
 Open the Train_detr.ipynb in google colab. DETR ResNet 50 and ResNet 101 pretrained model weights are used for fine tuning the custom dataset.
 
-Download the trained model weights in https://drive.google.com/file/d/1J4c6iCXG4sLz1751lSQe0CoKIqUd7Eyn/view?usp=drive_link
+Download the trained model weights for ResNet50 and ResNet101 in https://drive.google.com/file/d/1J4c6iCXG4sLz1751lSQe0CoKIqUd7Eyn/view?usp=drive_link, https://drive.google.com/file/d/14fJLmqzoOD7CXk83-Pq07ZIbLUssnkQH/view?usp=drive_link correspondingly.
 
 #### Inference
 
